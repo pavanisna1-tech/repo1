@@ -1,4 +1,8 @@
 ECHO is on.
+<<<<<<< HEAD
 this
 
 thid
+=======
+this is edited
+>>>>>>> 8f3766553cdd921876f750a19af5aa94f37b65f3
